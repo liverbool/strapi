@@ -1,16 +1,16 @@
 {
-  "app.components.Button.save": "Save",
-  "app.components.Button.cancel": "Cancel",
+  "app.components.Button.save": "บันทึก",
+  "app.components.Button.cancel": "ยกเลิก",
 
-  "app.components.ComingSoonPage.comingSoon": "Coming soon",
-  "app.components.ComingSoonPage.featuresNotAvailable": "This feature is still under active development.",
+  "app.components.ComingSoonPage.comingSoon": "เร็วๆ นี้",
+  "app.components.ComingSoonPage.featuresNotAvailable": "คุณสมบัตินี้ยังอยู่ในระหว่างการพัฒนา",
 
-  "app.components.DownloadInfo.download": "Download in progress...",
-  "app.components.DownloadInfo.text": "This could take a minute. Thanks for your patience.",
+  "app.components.DownloadInfo.download": "กำลังดาวน์โหลด...",
+  "app.components.DownloadInfo.text": "กรุณารอซักครู่ อาจจะใช้เวลาซักเล็กน้อย",
 
-  "app.components.HomePage.welcome": "Welcome on board!",
-  "app.components.HomePage.welcome.again": "Welcome ",
-  "app.components.HomePage.cta": "CONFIRM",
+  "app.components.HomePage.welcome": "ยินดีต้อนรับ!",
+  "app.components.HomePage.welcome.again": "ขอต้อนรับ ",
+  "app.components.HomePage.cta": "ยืนยัน",
   "app.components.HomePage.community": "Find the community on the web",
   "app.components.HomePage.newsLetter": "Subscribe to the newsletter to get in touch about Strapi",
   "app.components.HomePage.community.content": "Discuss with team members, contributors and developers on different channels.",
